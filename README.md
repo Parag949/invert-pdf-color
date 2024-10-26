@@ -1,10 +1,10 @@
 # invert-pdf-color
-
+using offline free method
 
 Requriements :
 
 1) python installed
-2) imange maigik
+2) image maigik
 3) ghostscript
 
 Create folders
