@@ -4,7 +4,7 @@ using offline free method
 Requriements :
 
 1) python installed
-2) image maigik
+2) image Magick 
 3) ghostscript
 
 Create folders
